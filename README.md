@@ -1,4 +1,10 @@
 
+[![GitHub issues](https://img.shields.io/github/issues/yidao620c/python3-cookbook.svg)](https://github.com/yidao620c/python3-cookbook/issues)
+[![License][licensesvg]][license]
+[![Github downloads](https://img.shields.io/github/downloads/yidao620c/python3-cookbook/total.svg)](https://github.com/yidao620c/python3-cookbook/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/yidao620c/python3-cookbook.svg)](https://github.com/yidao620c/python3-cookbook/releases)
+
+
 # 《Python Cookbook》 3rd Edition 翻译 
 
 《Python Cookbook》3rd 中文版3.0.0正式发布啦 ^_^！ ——2017/12/07
@@ -9,15 +15,6 @@
 
 * 中文简体版PDF下载地址：<https://pan.baidu.com/s/1pL1cI9d>
 * 中文繁体版PDF下载地址：<https://pan.baidu.com/s/1qX97VJI>
-
--------------------------------------------------------------
-
-旧版本(2.0.0)下载
-
-《Python Cookbook》3rd 中文版2.0.0 ——2016/03/31
-
-* 中文简体版PDF下载地址：<http://pan.baidu.com/s/1i4Jypff>
-* 中文繁体版PDF下载地址：<http://pan.baidu.com/s/1i5k2CjN>
 
 
 ## 译者的话
@@ -37,7 +34,9 @@
 
 目前已经正式完成了整本书的翻译工作，历时2年，不管怎样还是坚持下来了。现在共享给python社区。
 
-**捐助渠道已开通，如有意向请点击[【微信二维码】](qcode.jpg) 捐赠。**
+**欢迎关注我的个人公众号“飞污熊”，我会定期分享一些自己的Python学习笔记和心得。**
+
+![公众号](https://github.com/yidao620c/python3-cookbook/raw/master/exts/wuxiong.jpg)
 
 
 ## 项目说明
@@ -60,12 +59,22 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 ```
 
-
 ## 其他贡献者
 
+排名不分先后：
+
+1. Yu Longjun (https://github.com/yulongjun)
+1. tylinux (https://github.com/tylinux)
+1. Kevin Guan (https://github.com/K-Guan)
+1. littlezz (https://github.com/littlezz)
+1. cclauss (https://github.com/cclauss)
+1. Yan Zhang (https://github.com/Eskibear)
+1. xiuyanduan (https://github.com/xiuyanduan)
+1. FPlust (https://github.com/fplust)
+1. lambdaplus (https://github.com/lambdaplus)
 1. Tony Yang (liuliu036@gmail.com)
-2. Yu Longjun (https://github.com/yulongjun)
-3. LxMit (https://github.com/LxMit)
+
+[更多贡献者](https://github.com/yidao620c/python3-cookbook/graphs/contributors)
 
 -----------------------------------------------------
 
@@ -74,10 +83,10 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 有网友提问怎样通过源码生成PDF文件，由于这个步骤介绍有点长，不适合放在README里面，
 我专门写了篇博客专门介绍怎样通过ReadtheDocs托管文档，怎样自己生成PDF文件，大家可以参考一下。
 
-https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
+<https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>
 
-另外关于生成的PDF文件中会自动生成标题编号的问题，
-有热心网友 [CarlKing5019](https://github.com/CarlKing5019)提出了解决方案，请参考issues108的解放方案：
+另外关于生成的PDF文件中会自动生成标题编号的问题，有热心网友 [CarlKing5019](https://github.com/CarlKing5019)提出了解决方案，
+请参考issues108：
 
 <https://github.com/yidao620c/python3-cookbook/issues/108>
 
@@ -102,12 +111,11 @@ Meanwhile you'd better follow the rules below
 * Follow common Python coding conventions
 * Add the following [license] in each source file
 
-
 ## License
 
 (The Apache License)
 
-Copyright (c) 2014-2015 [Xiong Neng](<https://www.xncoding.com/>) and other contributors
+Copyright (c) 2014-2018 [Xiong Neng](<https://www.xncoding.com/>) and other contributors
 
 Licensed under the Apache License, Version 2.0 (the "License"); 
 you may not use this file except in compliance with the License. You may obtain a copy of the License at
@@ -118,3 +126,7 @@ Unless required by applicable law or agreed to in writing,
 software distributed under the License is distributed on an "AS IS" BASIS, 
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
 See the License for the specific language governing permissions and limitations under the License.
+
+
+[licensesvg]: https://img.shields.io/hexpm/l/plug.svg
+[license]: http://www.apache.org/licenses/LICENSE-2.0
